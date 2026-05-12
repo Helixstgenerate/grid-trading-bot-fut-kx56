@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with elite grid trading bot for futures Executor | slippage-control + API-integration, the #1 grid trading bot for futures. Includes slippage-control and
 
 
 
